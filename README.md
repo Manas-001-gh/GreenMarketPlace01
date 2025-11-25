@@ -1,2 +1,21 @@
-# GreenMarketPlace01
-Green Technology Marketplace is a Java console-based e-commerce simulation for eco-friendly products. Users can browse, buy, and review items, while admins manage listings and feedback. The project applies OOP and modular Java concepts, with future plans for JDBC connectivity and file-based data storage.
+# Green Technology Marketplace
+
+## Overview
+A Java console application that simulates an online marketplace for eco-friendly products. Users can browse, buy, and review products. Admins can manage listings and view reviews.
+
+## Features
+- User and Admin roles
+- Product browsing and purchasing
+- Review system
+- Modular code using OOP principles
+
+## Technologies Used
+- Java (JDK 17+)
+- ArrayList, Scanner
+- Object-Oriented Programming
+- Planned: JDBC for database operations
+
+## How to Run
+1. Clone the repository
+2. Compile using `javac *.java`
+3. Run `Main.java` using `java Main`
